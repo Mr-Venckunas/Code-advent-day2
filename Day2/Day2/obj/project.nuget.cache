@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9hTSOWOhirtBn7hUShvbxxeKD3W+1hBWwtwFubVGE79BwDdj341FBnBq8tFmrdOzjpX0bmnzYZ+ag6DVPcdmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas.venckunas\\source\\repos\\Day2\\Day2\\Day2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas.venckunas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

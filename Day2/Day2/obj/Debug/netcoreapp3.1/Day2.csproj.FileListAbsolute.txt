@@ -1,0 +1,15 @@
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\day2input.txt
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.exe
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.deps.json
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.json
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.dev.json
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.dll
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.pdb
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.AssemblyReference.cache
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfoInputs.cache
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfo.cs
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.CoreCompileInputs.cache
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.dll
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.pdb
+C:\Users\tomas.venckunas\source\repos\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.genruntimeconfig.cache
